@@ -1,21 +1,18 @@
+html {
+	font-family: sans-serif;
+}
+
 h1 {
 	background-color: yellow;
-	font-family: sans-serif;
-	text-align: center;
-	width:33%
+	text-align:center;
 }
 
 h6 {
-	background-color: purple;
-	color: white;
 	float:left;
-	
+	color: black;
 }
 
 p {
-	background-color: blue;
-	color: white;
-	font-family: sans-serif;
 	width: 50%;
 	padding-left: 25%;
 }
